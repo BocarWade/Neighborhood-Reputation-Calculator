@@ -1,4 +1,4 @@
-# Neighborhood Sentiment Analysis
+# Neighborhood Reputation Calculator
 
 ## Overview  
 This repository provides a **Neighborhood Sentiment Analysis** tool that allows users to calculate and analyze the reputation of neighborhoods based on sentiment extracted from text-based data (e.g., newspaper articles). The goal is to empower others to evaluate the sentiment and perception of specific neighborhoods in their cities by leveraging pre-trained sentiment models.  
